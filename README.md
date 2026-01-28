@@ -1,5 +1,5 @@
 <h1 align="left">Hi everyone, I am Ilya</h1>
-<h3 align="left">Junior Frontend / Fullstack Developer</h3>
+<h3 align="left">Frontend / Fullstack Developer</h3>
 <p align="left">
   Currently focused on building <b>Frontend solutions</b> for an IT company specializing in <b>IoT products</b>.
 </p>
