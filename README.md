@@ -1,8 +1,5 @@
 <h1 align="left">Hi everyone, I am Ilya</h1>
 <h3 align="left">Frontend / Fullstack Developer</h3>
-<p align="left">
-  Currently focused on building <b>Frontend solutions</b> for an IT company specializing in <b>IoT products</b>.
-</p>
 
 ---
 
@@ -35,7 +32,7 @@
   <a href="https://t.me/idoorianGray" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
-  <a href="mailto:wertas44187@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <a href="https://gitlab.com/wertas87" target="blank">
+    <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
   </a>
 </p>
